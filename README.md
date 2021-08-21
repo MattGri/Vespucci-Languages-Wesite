@@ -20,3 +20,6 @@ Copy of a website written by myself
 
 All copyrights belongs to Vespucci Languages
 https://www.vespuccilanguages.com/
+
+ # Live 📍
+ https://pedantic-saha-bb5663.netlify.app/index.html
